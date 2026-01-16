@@ -1,0 +1,15 @@
+---
+Name: Doom - The Dark Ages
+Entry Created: 2025-01-01
+Genre:
+  - Action
+tags:
+  - game
+---
+This game, of course, stands in the tradition of the [[Doom]] reboot. That alone is enough to carry it a long way. It’s unclear to me where this fits in the new Doom mythology. Old Doom made a bizarre but intuitive sense: a marine was sent to close the portals to Hell which had appeared on Mars. This Doom is burdened with so much lore. I actually do want to find out more about the Slayer, which surprised me, but the series is sliding further away from its roots. Even in the first game of the reboot the feel was closer to [[DOOM]]. There was that famous scene where the Slayer is supposed to remove a widget from a machine and instead of unplugging it he furiously smashes it to bits while a voiceover whines at him for breaking it. In this game the Slayer carefully twists knobs and throws switches when needed.
+
+This game contains possibly the most metal thing I’ve ever seen. Skyscraper-sized demons called Tyrants appear occasionally. They’re impossible to fight on foot by an order of magnitude. (Even for the Slayer, who is far beyond a superhero.) A Tyrant appears during the first dragon-riding sequence. After doing enough damage and staggering the Tyrant, an interact prompt shows up on it. The dragon latches his claws onto the Tyrant’s face, pries its mouth open, then breathes fire down its throat until it melts from inside. The first time it happened I set the controller down and just laughed for thirty seconds.
+
+The game is quick to hand out weapons but it’s a very steady flow. It was disappointing that the Ancestral Forge unlocked one shield upgrade. The Forge is teased at the end of one level, then set up by an entire level taking you towards the forge, then entered in yet a third level where you get a dramatic cutscene filling the forge with an ancient power, and are rewarded with -- a situational upgrade to the shield. Whomp.
+  
+Also the search for secrets and 100%-ing levels is a dramatic shift to the flow of the game. I feel compelled to find secrets because they almost always contain upgrade tokens. So the flow now is to have one combat encounter which lasts less than two minutes followed by ten minutes of re-crossing empty ground to find a secret. Even worse are the “Secret Keys”. These are found in one place in the level and then require you to return to a previously-visited place to use them. It’s mandatory backtracking. That backtracking will take you across spaces which could be filled with procedural or respawned encounters but instead are barren. The Slayer has no non-puzzle traversal options other than a weak sprint. I’d rather the secrets contain cosmetics, toys, and in-level powerups only. Since they contain progression upgrades I feel forced to seek them all out. It upsets me when I get to the end-of-stage summary and the game tells me I’ve missed key upgrade resources.
