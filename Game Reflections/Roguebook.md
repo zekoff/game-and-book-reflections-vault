@@ -1,0 +1,19 @@
+---
+Name: Roguebook
+Entry Created: 2024-06-01
+Genre:
+  - Deck Builder
+tags:
+  - game
+---
+The defining features of this game compared to Spire-likes are the explorable stage maps and, even more crucially, the fact that an unlockable skill tree is progressed by adding cards to your deck. Most deck builders thrive on card removal. Build a strategy around a key set of cards and ruthlessly cleanse anything that doesn’t fit the strategy. Tying progression to size of deck flips this on its head. Similarly, there are cards that grow proportionally stronger with size of deck. The explorable map is also a significantly different and delightful way of handling areas. There is a true sense of discovery as tiles are revealed. The dual-character approach is a nice twist although less of a defining feature than the other two. The one major benefit is similar to my long-sought mechanic of a componentized deck-building experience where cards come in chunks and the authored design can promote variety while still ensuring some guarantee that decks are reasonably viable.
+
+One thing I generally appreciate about games, especially those I have to set down and come back to in bursts as often happens on Switch, is when you can understand the total game state by evaluating what's surfaced in the UI (including whatever the primary play space is). The converse of this is games with transient effects that once observed are not accessible. A trivial example is an action game where I see an enemy pass an open door and then go out of view. In the moment I know generally where the enemy is. If I set the game down and come back later I am unlikely to remember that specific element of the game state. Unfortunately that's likely a very important token of state. I'm going to die when I walk through that door. 
+
+Turn based games are usually naturally good at this property but when you seek deep mastery over them you do notice exceptions. [[Shattered Pixel Dungeon]] almost perfectly adheres to this property but not always. An example off the top of my head is when bosses like the final boss telegraph their next ranged attack. At the start of the player turn the targeted tiles will turn red and then fade. If at that moment you set the game down, when you return, that information about targeted tiles is no longer available.
+
+Roguebook appears to have this property of full game state available at any time via the UI.
+
+Played this game a while back but redownloaded and completed a run in about two and a half hours. I relied on specific card that I optimized around with the help of gems that can be freely slotted in to improve cards. Gave a wonderful feeling of breaking the rules. In the final boss battle I did nearly 400 damage in a single card play. In a game where a good starter card might do 8 or 10.
+
+There's something about it that's less compelling than [[Monster Train]]. Monster Train three lane combat is great. I love how Monster Train relies so heavily on placing creatures versus this which is a more basic approach of cards just making your characters attack. The monster placement in MT gives another axis to combat besides HP bars. In that was MT almost has a tower defense approach. Using gems to improve cards is a compelling feature due to its flexibility but is essentially the same approach to MT which allows application of upgrades in slots on cards. The map exploration in RB is a nice soft puzzle to solve and takes some of the emphasis away from the card battling and that provides variety. Ultimately though the battles are not dynamic enough to carry any more weight than [[Slay the Spire]]. For an introduction I'd point someone to StS. To the person who's had their fill and wants more I'd point them to MT. I'm not sure who I would recommend this one too. It falls in a valley between two peaks.

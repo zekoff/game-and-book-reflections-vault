@@ -5,7 +5,7 @@ Genre:
 tags:
   - game
 ---
-This is dire. The aesthetic appeal snookered me. I love the way [[Crystal Project]] mixed 3D voxel terrain with 2D character sprites. Similar here. The camera has a fairly low position that splits the difference almost exactly between overhead and side view. There is a focal point effect where things far from the camera are out of focus. It looks nice. 
+This is dire. The aesthetic appeal snookered me. I love the way [[Game Reflections/Crystal Project]] mixed 3D voxel terrain with 2D character sprites. Similar here. The camera has a fairly low position that splits the difference almost exactly between overhead and side view. There is a focal point effect where things far from the camera are out of focus. It looks nice. 
 
 The UI contains images that are stretched to incorrect height/width ratios. Other elements are partially cut off by the edges of the screen. No cohesion. Some images are pixel-y, then there are 9-patch background containers, then sheek bars for “HP” and “⚡”. 
 

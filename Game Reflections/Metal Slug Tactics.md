@@ -1,0 +1,17 @@
+---
+Name: Metal Slug Tactics
+Entry Created: 2024-06-01
+Genre:
+  - Tactics
+tags:
+  - game
+---
+Despite being a slideshow on Switch… this is compelling. The framework is structurally very similar to [[Into the Breach]]. It’s so similar, in fact, that it treats ItB as the ur-text of a genre. JRPGs have levels and gear and a linear story where you kill a god. Metroidvanias feature backtracking and new abilities and a giant map. ItB-likes must, I guess, feature a four-zone map and three characters on a grid and some light progression. The innermost loop of the game couldn’t be more different, though. If I had to point to one thing, it’s the fact that character movement translates directly to power. The constant repositioning creates dramatic swings and constantly shifting tactical options. Enemies are resources because they can be used to trigger sync attacks, which are not only very powerful but generally give the characters some additional capabilities.. The removal of enemy movement prediction was something I thought I’d miss, but in fact, it shifts the analysis from coping with enemy movement to setting up how I’m going to knock down the bowling pins. This game feels less like Sokoban and more like running the table in pool. There is lots of cruft via weapon types and mods and special actions and passives and coins and reinforcements and… the list goes on. It gives variety but no one would confuse it for elegance. Yet the beating heart of the game is the shift in emphasis to reward constant movement.
+
+The prior art that is Into the Breach provides an even more powerful context for this game. Into the Breach is brilliant in its tightness. A tactical puzzle that keeps you always on the back foot. You don’t beat missions in ItB. You survive missions. MST does for that formula what the zombie missions did for the XCOM formula. It turns a nail-biting tactical puzzle into a run-and-gun blast fest that is somehow still turn-based. ItB says to enemies “I concede this battle but somehow I’ll win the war.” MST says to enemies “I’m not trapped in here with you -- you’re trapped in here with me.” The closest thing I can think of to this feeling in a tactical game is The Last Spell. Where a few superheroes take on scores of enemies. This is somewhere in between.
+
+Writing this though, I reflect again on the fact that Into the Breach is a tour de force in tactics games. A singular achievement that shifted the landscape of games. A [[Dark Souls]], a [[Doom]], a [[Wizardry]], a [[Mario 64]].
+
+The game has no business working as well as it does. It's a maximalist soup of modifiers and multi tier abilities. That probably means there's some design relief valve underpinning the game. One would be the non-binary win conditions. The game can throw a lot of variety because it supports varying degrees of success, and failure is a setback rather than a game over. Another relief valve is that player characters are actually pretty durable. Another is that, while HP values are still fairly chunky (10 HP versus 234 HP), things mostly do reduce down to HP values. So there's a common currency for all characters despite their different designs. Adrenaline is another resource that can be tuned to how powerful abilities should be. The adrenaline and health systems were designed for “balanceable, not balanced.”
+
+ItB is a tactical puzzle simulator. MST is truly more of a tactics game. The swap of elegance for maximalist is actually another defining characteristic of comparison.

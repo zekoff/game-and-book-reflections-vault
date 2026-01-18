@@ -1,0 +1,19 @@
+---
+Name: Sagres
+Entry Created: 2024-06-01
+Genre:
+  - Adventure
+tags:
+  - game
+---
+This is a surprising game. It is so crammed full of mechanics that it feels like someone’s first game project which was unbearably overscoped and labored over for years. Yet it has a level of polish that feels like anything but a first project. I first noticed this on the title screen, where the “Sagres” logo is pixel-perfect, meaning adapted at an image level to the Switch’s 720p resolution (uncommon for games that are not made specifically for Switch nowadays). It uses the [[Secret of Mana]]-style ring menus which are still perhaps underused. They are functionally equivalent to a standard menu of rows that wraps around from bottom to top, but so much more fun. The music is solid and I haven’t encountered a single bug.
+
+Each individual game system is sound but not deep. Sailing, deck-building battles, trading, naval exploration, on-foot exploration, puzzle rooms, consulting books in libraries and taking on guild quests, hiring hand-crafted crew members who bring new capabilities, inventory management, upgrading and customizing your ship, picking up rumors in taverns… stuffed to bursting with different things. No one of them is particularly compelling, and the game ends up being just the sum of its parts, but it has so many parts that this still adds up to a lot.
+
+I love a few of the little details, like how you start the game by answering questions about yourself, which gives you your initial stat allocation. When you discover something, you get a [[Skies of Arcadia]]-style custom picture and fanfare. There are various languages spoken by people all over the world in different cities, and your crew’s aggregated ability in speaking those languages affects your ability to read the text. Languages you don’t understand will have glyphs, sometimes many of the glyphs, substituted for random punctuation marks. One of my few fiero moments in the game was when I deciphered enough of the garbled text to theorize where a certain landmark was located. I had just enough supplies to make it there and back. It felt like I truly discovered something.
+
+I bailed on this game after a major plot point and the attached gameplay shift. In a significant naval battle at this plot point, a “Charge” feature is unlocked, which is basically a limit break. It added a desperately-needed second dimension to combat. You get to use it in that one battle (with the promise it is unlocked forever now), then the scene changes to the New World. Your ship is destroyed and your first act is to piece it together again. In this sequence, you are crippled. The one semi-interesting mechanic of the game, the sailing, is neutered during this time. Furthermore, you are told upfront that you’ll need to collect 20k-ish money to buy the needed pieces of your ship. This is a significant amount of money, but this time with no quests available to bring reward payouts. The game explicitly tells you you’ll have to make the money by ferrying trade goods. My experience with trade goods up to that point is that one ferry run might net you 1% of the needed amount. That plus the neutered ship and the removal of all other gameplay options killed the game for me. The amount of grinding would be literal hours of wall clock time. The game was barely diverting enough with all features at its command, and this was intolerable.
+
+The other miss in hindsight is the card battles, because the deck-building element never matured in my 6-8 hours of the game. I picked up exactly one additional card type ever, and only two copies of it. Furthermore, there’s no way to tell what deck an enemy will bring to battle, so there’s no way to optimize even your rock-paper-scissors cards against an upcoming battle.
+
+Disappointing as the game had such a surprisingly strong start, and because I felt suckered in by the time the rug was pulled out from under me.

@@ -1,0 +1,11 @@
+---
+Name: Orbit Industries
+Entry Created: 2024-06-01
+Genre:
+  - Simulation
+tags:
+  - game
+---
+Played in the past, but re-installed on Switch on a whim. I can’t think of much else quite like this game. It’s not… friendly, necessarily, but it’s got a singular sort of polish and a fairly coherent vision. The UI is functional but looks well-loved. Great care went into making it feel like a space station user interface built my someone who's only watched science fiction movies. There is a weird shortening of words, lots of capitalization, superfluous iconography. The station is constructed in two modes. The first mode is a visual representation of the space station in 3D space. Modules are attached, snap together like building blocks. The second mode is an abstract 2D plane representing various module inputs and outputs, like power, environmental control, and payload capacity. The abstract building interface is a very light puzzle where you have to space things out enough to keep wires from crossing. There’s no benefit or penalty from placing things without respect to their adjacency, so it’s merely a flavored diversion. Same though for the 3D building of the station -- there’s no penalties nor bonuses for the way modules are attached, meaning there’s tremendous freedom even in the non-creative game modes. The game is framed as a simulation for a commercial space station, but there’s an endless number of randomly generated contracts to take on, and as long as you keep your key modules somewhat busy with contract work, your income will always vastly outpace your spending. So, there’s no pressure as such, but a framework that gently pushes you to expand your station. It does the common city builder trick where you don’t quite reach homeostasis between the different resources when you add modules, so you add another one that shores up one limit, only to have it push something unrelated slightly out of balance. Rinse and repeat. Again, leading to a gentle push towards expanding the station, but I can’t imagine reaching an outright fail state. The game simply isn’t tuned that direction.
+
+A unique game. Not likely to have widespread appeal but worth experiencing. Going back to the idea of polish -- it’s polished because it fully commits to the bit, rather than because it honors decades of best practices in existing genres.

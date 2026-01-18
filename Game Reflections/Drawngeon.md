@@ -1,0 +1,23 @@
+---
+Name: Drawngeon
+Entry Created: 2024-06-01
+Genre:
+  - RPG
+tags:
+  - game
+---
+Notebook doodle style is pleasing. The UI reminds me of [[Ultima Underworld]]. 3D turn based grid movement was surprising after watching the trailer but a nice surprise. The movement speed is very slow, however. This is a highly constrained movement style as it is. Making it so slow really drags the pace down. The game also begins in a very open area which is not usual for this type of movement. It is off putting compared to pressing through corridors. The most recent game I've played in this style was one of this NIS games. Something about puppets and a witch or something? Donums… anyway, that's a template for areas that is better suited. Your map fills one square at a time but you can see for a long way. This drives you forward looking at the field of view but gives you a an important derived objective of filling the map. It also gives you nice easy accomplishments of filling out a map area. Once you're confident it's filled you can move very rapidly guiding yourself only via map. In Drawngeon you could actually play only using the minimap and this would be equally effective. In fact you can completely turn off the 3D rendered perspective view as an option. If you do this, however, you are still bound to the same slow movement speed. 
+
+\[game referenced above was [[Labyrinth of Refrain - Coven of Dusk]]\]
+
+This game has real time (though very slow) combat. I can't think of a single one of these games where I appreciated this. I don't like dodge dancing around an arena trying to avoid hits because it feels like it's working against the true design as opposed to with it. It's probably a strategy that emerged from a progenitor in this style, became a feature, and then ossified. There's room to explore a single combat system that is still turn based. I don't think I've seen that before.
+
+The movement speed is the biggest killer. But reading some quick steam reviews it appears that the game is 2-5 hours which rekindled my interest. I'd be willing to invest that kind of time to finish it instead of a 30 hour epic. My growing perspective is that I'd rather have a game give me great fun for 3 hours than good fun for 30 hours. Given the low price too it's hard to fault the game too hard because the price and playtime are still respectful. 
+
+The players intelligence stat affects what they can read or perceive in the world. This is one of my favorite tricks ever. Dating back to [[Fallout]] as far as I know. It's not done well here as it's a binary can or can't read , and there's no alternate content to support characters who are too dumb. This is an incredible role playing assist though. I didn't just use INT as my dump stat, I am actually experiencing the game through the brain of a dumb character. Why don't we do this with other stats? Not just stat bonuses to actions, but the world actually looks different. If you have high combat prowess, an enemy looks less threatening. High hacking skill, a terminal looks more intelligible. High magic power, you see the threads and forces of magic binding things.
+
+I spent a skill point and unlocked THE WHOLE MAGIC USE SYSTEM with no indication it existed. That was cool. A benefit of no tutorial. But a risk as I had already almost quit the game. It's the system where you manually enter runes to cast each spell. I love those systems. And it is one place where the real-time nature of combat fits well with another system. And then dexterity improves movement speed and made the fiddly dodge combat style at least more practical. The fact that exploration is slow without DEX is not good though 
+
+More and more mystery and surprise revealed itself the more I played. A crash pulled me out and was the deletion trigger. Nonetheless, more special than I first expected. I'm glad I stuck with it 
+
+What did make me try again after I recoiled at first? It was knowing that the game had an end and not pointlessly roguelike, and the fact that there was clearly something in the game I hadn't experienced. The int system preventing text from appearing. Those minor things, especially the int system of reading. It was just enough to pull me back in slightly wiser. I made it much further and when I died again it gave me the opportunity to try again with the third archetype. What lesson can I learn from this for design? Signal the depth but don't give it away at once.

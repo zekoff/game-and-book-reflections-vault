@@ -1,6 +1,6 @@
 ---
 Name: "{{title}}"
-Entry Created: 2025-01-01
+Entry Created: 2024-06-01
 Genre:
 tags:
   - game

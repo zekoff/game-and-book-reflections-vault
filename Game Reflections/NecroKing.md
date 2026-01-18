@@ -6,7 +6,7 @@ Genre:
 tags:
   - game
 ---
-Another Alawar game with a fixation on undead. Nonetheless, this is the third Alawar game I’ve played and loved for its “designing from first principles” approach. This, [[NecroSmith]], and [[Wall World]] all feel like they were designed in the Sid Meier era. They don’t defy genre so much as are blissfully unaware that genre exists.
+Another Alawar game with a fixation on undead. Nonetheless, this is the third Alawar game I’ve played and loved for its “designing from first principles” approach. This, [[Necrosmith]], and [[Wall World]] all feel like they were designed in the Sid Meier era. They don’t defy genre so much as are blissfully unaware that genre exists.
 
 The columns into which troops are deployed are numbered 1 through 4. This is a-thematic and jarring. Neither does it work so well mechanically, because it makes it difficult to remember why certain unit types can only be placed into certain columns. Wait, why can my “Rider” (cavalry) only go into Column 1? Versus, oh, of course my Rider must start in the “rearguard” so that it can charge to the frontlines. Why can my Archer only go in Column 1 and 2? Versus, oh of course, my Archers must not be placed into the vanguard.
 

@@ -1,0 +1,19 @@
+- Standardize names
+	- Add alias names for common abbreviations (e.g. StS, BotW, Civ VII)
+	- Remove "demo" from names where relevant
+	- Remove parentheticals
+	- Capitalization
+- Add Series tags
+	- Create landing pages where series links to multiple games
+- Fill in any orphaned backlinks
+	- Add entries for backlinked games
+- Go through each entry to verify links and add series pointers
+- Add and fill in missing genres
+- Figure out how to link things when referencing a series
+	- Maybe just create a "series" folder or sub-folder?
+- Figure out what to do with remake naming conventions
+- Figure out what to do with colons in file names
+- Genres to add
+	- Automation
+	- Slow-life
+- Figure out how alias linking works

@@ -1,0 +1,9 @@
+---
+Name: Metro Quester
+Entry Created: 2023-06-01
+Genre:
+  - RPG
+tags:
+  - game
+---
+A real oddity. 80s tile-based graphics, except for the characters and enemies. Characters are drawn in an incohesive style that waffles between various types of anime and realistic cartoon. Enemies are fantastical but not cartoon. Imagine realistic drawings of things from [[The Last of Us]] and that’s pretty close. The translation is a slight barrier but ultimately not enough to make the game unplayable. Noticing a slightly-cracked wall, and having it break when tapped, was a nice moment and exposed some depth. I also appreciate that it’s an exploration game. There was a panicked moment when I thought that the resources required to advance per period were going to scale indefinitely, but eventually realized that it was a coincidence because I’d added more characters to my roster between two “weeks”. Makes it possible to grind a bit, yet the level cap makes it so you can’t trivialize encounters (and is a gentle nudge that you should refocus on exploration instead of grinding). Straddles a strangle line between auto-battling and manual control by remembering your last set of commands for each character. This is one implementation of an idea I’ve had for turn-based battle system where once you’ve gotten your go-to strategy dialed in, you can fall back on it automatically for trash mobs. I also like how this game encourages you to flee battles where you’re overmatched. It does this by giving you a guaranteed (but costly) retreat option at any time in any battle, and making the cost of losing a battle very high. This is the first game I can think of in a long time where I’ve regularly made tactical use of a retreat option. I rarely retreat even in classical roguelikes -- upon reflection, this is actually one of the special things about this game.
