@@ -1,7 +1,8 @@
 ---
-Name: "Herzog Zwei"
+Name: Herzog Zwei
 Entry Created: 2024-06-01
 Genre:
+  - RTS
 tags:
   - game
 ---

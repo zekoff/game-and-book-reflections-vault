@@ -2,6 +2,7 @@
 Name: Obelisk Miner
 Entry Created: 2025-11-01
 Genre:
+  - Idle
 tags:
   - game
 ---

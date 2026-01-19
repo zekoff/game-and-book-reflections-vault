@@ -1,10 +1,12 @@
 ---
-Name: Cities - Skylines Remastered
+Name: "Cities: Skylines Remastered"
 Entry Created: 2024-06-01
 Genre:
   - Simulation
 tags:
   - game
+aliases:
+  - "Cities: Skylines"
 ---
 Having put a solid number of hours (a dozen?) into the Switch port of the base game, I downloaded this  one, free on Game Pass, already understanding the game in broad strokes. I was struck first by how ugly it is. Probably a combination of two factors. One, playing a game on the Switch, you are more used to a lower level of graphical fidelity and perhaps a cramped UI. But muddy textures are more easily forgiven on Switch with the lower resolution. On the big screen and the beefy Xbox, those muddy textures are very clearly muddy. And, I don’t think I appreciated how the graphical design of this game either did not age well or was just ugly to begin with. The UI is workmanlike, but more importantly the city was going for realism. And last-gen realism always looks like garbage compared against current gen. The stylized look of a [[Steamworld - Build]] will age better (UI design notwithstanding). The second major factor that I think couldn’t help but contribute to my “this is ugly” reaction: this is supposedly the “Remastered” version. I guess that set the tone that it ought to look… kind of nice, at least? In fact, perhaps the primary reason I downloaded it in hindsight was that I wanted to see my city-as-ant-farm in glorious Xbox strokes. So that created a gap in my expectation that it feel short of. I did play enough to notice a few touches that may have come through in the remastering: the road tool has a few extra UI affordances, roads get automatically named which is surprisingly neat, and there are some additional filters or visual modes to see traffic patterns, etc. which either weren’t present in the base game or weren’t present in the Switch port. There was oddly at least one significant regression from my perspective, which is that due to a quirk of either the terrain system or the road system, zoning blocks that are conceptually contiguous (strictly surrounded by a single road set) are not considered contiguous by the zoning tool. Meaning you draw a block for a zone and end up getting two weirdly-shaped sub-zones inside. For a game about, at the end of the day, zoning things, this is pretty annoying.
 

@@ -1,7 +1,8 @@
 ---
-Name: "Mindustry"
+Name: Mindustry
 Entry Created: 2024-06-01
 Genre:
+  - Automation
 tags:
   - game
 ---

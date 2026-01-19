@@ -8,7 +8,7 @@ tags:
 ---
 Does a lot with a little. Two unit types, linear improvements to cities, a handful of tile types. The most flexible and expressive system is the research system. Time per turn is spent about equally between studying the map, moving units or placing flags, and adjusting spending in the wealth tab.
 
-Compresses 50% of a game of [[Civilization]] into 5% of the time.
+Compresses 50% of a game of [[Civilization series]] into 5% of the time.
 
 I originally turned my nose up at the fact that maps are pre-made instead of procedurally generated. I have since come around to them. Maps actually resemble the real-life locations that they’re based on. I was struck in the Mediterranean map when I saw Italy’s boot and then noticed the verisimilitude of culture placement on that map. The real value though comes from the fact that each culture’s placement is a static starting position and will give a different play experience even on the same map. This is contrary to my normal leaning of wanting nearly everything procedurally generated.
 

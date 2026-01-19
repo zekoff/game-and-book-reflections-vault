@@ -5,6 +5,8 @@ Genre:
   - Immersive Simulation
 tags:
   - game
+aliases:
+  - System Shock
 ---
 As in [[BioShock]] the environmental design is unsubtle. Things are a little larger than life -- the pipe default weapon is gigantic in the hands. Also something about the use of color and texture I have never put my finger on. Lots of shiny textures versus matte. Lots of contrast between lights and dark. 
 
@@ -40,7 +42,7 @@ I spent about 60 seconds poking around in a room full of radiation while my char
 
 Early on I solved the untutorialized puzzle and while poking around in the area it unlocked I found a gun that shoots electricity. The gun drains from your personal energy reserves. You can fill up those personal energy reserves at power pylons that continually regenerate in multiple places. So I just went through the first part of the game with infinite ammo
 
-I recall the [[Resident Evil]] model of weapon management being used. The minimum weapon you can get away with to kill enemies without taking enough damage to overly consume your health resources here. I'm just blasting away because I don't want to waste time swinging my wrench over and over standing in the same place
+I recall the [[Resident Evil 2]] model of weapon management being used. The minimum weapon you can get away with to kill enemies without taking enough damage to overly consume your health resources here. I'm just blasting away because I don't want to waste time swinging my wrench over and over standing in the same place
 
 I'm comparing this to the wizardry proving grounds of the mad overlord remake. The digital extremes did recently. That game was completely redone and yet exactly wizardry as those who played it experienced it. This game is the worst of both worlds. It has none of the menace and dispassion the casual cruelty of the original and yet it has none of the magic of Discovery or novelty. All of its new systems are poorly implemented. Versions of things close to perfected in 2025
 

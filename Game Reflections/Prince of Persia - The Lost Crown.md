@@ -13,7 +13,7 @@ The gameplay is smooth. The combat is fast but not frantic. Enemies can soak a g
 
 I also note that the demo was not simply the opening sequence of the game, so the opening sequence was a surprise. There was a compelling (and surprisingly violent) opening movie showing a losing battle against invaders, whereupon the Immortals enter the scene like an anime superhero team and turn the tide.
 
-Colorful versus dour browns. Mark of current style. [[Mario Wonder]].
+Colorful versus dour browns. Mark of current style. [[Super Mario Bros. Wonder]].
 
 Amazing game. Played to completion and loved it. Shockingly emotional, on par with a [[Xenoblade]] game. Screenshots and videos.
 

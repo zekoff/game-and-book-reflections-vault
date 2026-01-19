@@ -6,7 +6,7 @@ Genre:
 tags:
   - game
 ---
-Most like the [[Persona]] games from the perspective of the outer game loop. You manage your day in blocks of time. Moving to a location takes 30 minutes, searching out a random battle takes 3 hours, etc. In that time you are gaining strength in one way or another -- levels, skill points, equipment.
+Most like the [[Persona series]] games from the perspective of the outer game loop. You manage your day in blocks of time. Moving to a location takes 30 minutes, searching out a random battle takes 3 hours, etc. In that time you are gaining strength in one way or another -- levels, skill points, equipment.
 
 I ventured into a new area and searched out a random battle where I was easily defeated. This resulted in a Game Over. Not a “reload from save” -- an actual character deletion and return to the title screen. While I was shocked that this was the result of losing a single battle, I think I like it. It gives the game high stakes and is of course thematically consistent. I do hate seeing Game Over screens that aren’t thematically integrated into a game. Since the scope of the game is presumably only 10 days it’s not terribly burdensome to restart. Unlike Labyrinth or whatever that other Playdate game was. In that one the game could theoretically be infinite except for the fact that there’s no game save functionality. I’m still not over that.
 

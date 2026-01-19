@@ -5,6 +5,8 @@ Genre:
   - JRPG
 tags:
   - game
+aliases:
+  - "Clair Obscur: Expedition 33"
 ---
 It feels like walking around in one of the hand-painted backgrounds from PS1-era games. Surreal. Warped architecture. Alien shapes but human touches that give it a touch point to reality. Tricks your brain into never being able to slough it off into total fantasy.
 
@@ -20,7 +22,7 @@ Mystery. All the characters know what to expect but the player does not. Then la
 
 Low friction game. Combat inputs respond immediately. Battles start quickly. Save points spaced for tension but ultimately generous. Ability to immediately retry battles. Pause menu is complex but necessarily so. Regenerating consumables. 
 
-Influences: [[Persona]], [[Final Fantasy]], [[Super Mario RPG]], Lost, surely film although I can't point to a specific one. 
+Influences: [[Persona series|Persona]], [[Final Fantasy series|Final Fantasy]], [[Super Mario RPG]], Lost, surely film although I can't point to a specific one. 
 
 No minimap. Changes the game significantly and for the better. 
 

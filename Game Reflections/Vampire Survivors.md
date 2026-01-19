@@ -5,6 +5,9 @@ Genre:
   - Action
 tags:
   - game
+aliases:
+  - VS
+  - Survivors
 ---
 The Switch port is essentially indistinguishable from the PC version that I played on Steam Deck. There’s a huge missed opportunity to enable one-handed play with this game. Either thumbstick can be used for movement, but only the A button can make selections! So right-hand only play is possible, but why not make the L, or ZL, L-stick buttons useable for selections and thus enable left-hand-only play?
   

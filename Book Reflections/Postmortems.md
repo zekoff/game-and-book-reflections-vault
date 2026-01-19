@@ -6,7 +6,7 @@ tags:
   - book
 Times Read: 2
 ---
-There is power in simply working hard and writing about it prolifically. Raph did a great service documenting his learnings. I am more well aligned with his way of thinking than I thought I was. I need to read his [[Theory of Fun for Game Design]] again.
+There is power in simply working hard and writing about it prolifically. Raph did a great service documenting his learnings. I am more well aligned with his way of thinking than I thought I was. I need to read his [[A Theory of Fun for Game Design]] again.
 
 ----
 

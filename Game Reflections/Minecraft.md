@@ -2,6 +2,7 @@
 Name: Minecraft
 Entry Created: 2023-06-01
 Genre:
+  - Adventure
 tags:
   - game
 ---

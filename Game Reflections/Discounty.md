@@ -1,7 +1,8 @@
 ---
-Name: "Discounty"
+Name: Discounty
 Entry Created: 2025-06-01
 Genre:
+  - Slow-life
 tags:
   - game
 ---
@@ -9,7 +10,7 @@ Demo version. [[Stardew Valley]] vibes. Chunky pixel characters. Tool belt at bo
 
 Highly tutorizaled. The game reminded me with dialogue where I was going after transitioning from one screen to another. Doesn't trust me very much which implies it will be an on rails experience. 
 
-Very neat that running the cash register means literally adding up the prices of items as customers bring them to you. I haven't seen this mechanism since [[Math Blaster]]. I like it in theory, hard to say if I'll still like it hours from now. 
+Very neat that running the cash register means literally adding up the prices of items as customers bring them to you. I haven't seen this mechanism since Math Blaster. I like it in theory, hard to say if I'll still like it hours from now. 
 
 Dangles a little mystery early on with an abandoned (?) building from which noises come, or from a closed off forest path with radioactive signs. 
 

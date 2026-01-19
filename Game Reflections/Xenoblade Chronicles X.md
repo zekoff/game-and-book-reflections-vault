@@ -5,12 +5,13 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Xenoblade series]]"
 ---
 The way that Monolith commands “sense of scale” is unparalleled. Within moments the game can transition naturally from a potentially first-person conversation among party members, to an over-the-shoulder trip down Armory Alley gearing up for a mission, to a camera pulled far back showing towering rock pillars and mighty trees. Fast travel is convenient
 
 Another way the game captures sense of scale is the way traversal is limited. It creates a surprising intimacy with the terrain when a jump is just out of reach. Similarly, there are wide open spaces where you must simply cross on foot. And while you run, you can put it on auto-run, and look around at how huge your surroundings are. It’s such a magic trick to have a game where I feel equally unsurprised by an anime triple-somersault finisher tag-team Overdrive combo with a lightsaber followed by a long jog and a thoughtful moment trying to find the entrance to a cave.
 
-World design. Reminds me most of [[The Legend of Zelda: Tears of the Kingdom|The Legend of Zelda - Tears of the Kingdom]]'s Depths. You can see a spot, and know you could get there, but not know how. It may require a climb up a switchback mountain path which had an entrance hidden in a cave. There could always be something around the next corner or over the next hill, but there could also be something you walked right by and didn’t notice.
+World design. Reminds me most of [[The Legend of Zelda - Tears of the Kingdom|TotK]]'s Depths. You can see a spot, and know you could get there, but not know how. It may require a climb up a switchback mountain path which had an entrance hidden in a cave. There could always be something around the next corner or over the next hill, but there could also be something you walked right by and didn’t notice.
 
 Another signature of Xenoblade Chronicles games is the balance between party size and enemy numbers. A single enemy of similar power level is a suitable challenge and make take 30-60 seconds to defeat. Accidentally pulling a second enemy is often enough of a threat to disengage. This is a stark contrast to most JRPG-influenced games, where an enemy party will usually be about the size of the player party if not larger. This also contributes to the sense of scale. You can finish a fight with a giant wolf-thing which had you on the ropes. Then you swivel the camera to see a thirty-foot tall turtle-thing and think “yikes”.
 

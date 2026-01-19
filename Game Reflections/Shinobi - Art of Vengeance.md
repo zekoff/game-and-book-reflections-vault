@@ -6,6 +6,8 @@ Genre:
   - Platformer
 tags:
   - game
+aliases:
+  - "Shinobi: Art of Vengeance"
 ---
 Beautiful and stylish. This is a time in the medium where the 2D pixel throwback action game saturates digital storefronts. To see this painterly take on a retro game immediately causes it to stand out. The combat is fast but not quite frenetic. Combat follows the quick but steady mash-mash-dodge-mash-finisher cadence.
 

@@ -6,6 +6,7 @@ Genre:
   - Roguelite
 tags:
   - game
+Series: "[[Darkest Dungeon series]]"
 ---
 The design fixes everything that didn’t theoretically work well in the first game. One of my biggest complaints in the first game, and a common complaint from critics, was rooted in the fact that the game had no fail state. Difficulty came then from punishing dungeons which were tuned to wipe well-composed and well-played parties if the dice rolled poorly. To return to that party’s composition and power, grinding was then required to rebuild levels, trinkets, skills, and perks. The run-based nature of DD2 sets the framework of the game up to be truly making the most of a bad situation, versus the risk-mitigation approach of DD1 since a party wipe was punished with many hours of rebuilding. The candle metaprogression system is also typical of these run-based games now, and propels you into another run as soon as you complete the previous one.
 

@@ -2,6 +2,7 @@
 Name: Dave the Diver
 Entry Created: 2023-06-01
 Genre:
+  - Slow-life
 tags:
   - game
 ---

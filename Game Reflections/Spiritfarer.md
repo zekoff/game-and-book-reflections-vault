@@ -1,13 +1,14 @@
 ---
-Name: "Spiritfarer"
+Name: Spiritfarer
 Entry Created: 2025-01-01
 Genre:
+  - Slow-life
 tags:
   - game
 ---
 Beautiful artistically. Looks like a high quality animated movie. Both in still shots and in the expressive animations and characterizations of characters. 
 
-The beauty belies a game that requires an existing lexicon of game mechanics. Where [[Animal Crossing]] has an anemic sprint button, Spiritfarer has a double jump. Basic gameplay requires manipulation of a world map, a planning grid for buildings, and 2D platformer movement with time critical sequences. This wouldn't be a gateway game. It was bold to make a game like this which looks inviting but is mechanically robust. 
+The beauty belies a game that requires an existing lexicon of game mechanics. Where [[Animal Crossing - New Horizons|Animal Crossing]] has an anemic sprint button, Spiritfarer has a double jump. Basic gameplay requires manipulation of a world map, a planning grid for buildings, and 2D platformer movement with time critical sequences. This wouldn't be a gateway game. It was bold to make a game like this which looks inviting but is mechanically robust. 
 
 2D platformer movement is a very different feel from Animal Crossing’s 2D plane movement. Platformer style has gravity which means your character will move without your input. Part of gameplay is fighting the physics. In Animal Crossing your character will not move without you. If you release the stick you stop moving. That makes the control scheme more inviting to a player without a practiced sense for 2D platformer physics. Platformer movement also requires simultaneous use of both hands. Button to hump while also left stick to move. AC only requires one input at a time.
 
@@ -19,10 +20,8 @@ That isn’t the only mechanical thing that’s bothered me. There’s an increa
 
 Finally, there is a lot of traipsing across the map and waiting to arrive at the next destination. In theory this should work since there’s plenty to do on the ship. You ought to be spending that time gardening, forging, sawing, weaving, cooking, chatting, or re-architecting. The problem is that the game is too generous with success in those tasks. I had built up an inexhaustible stockpile of inventory items, and had pegged the happiness bars for my guests, way before I had completed all of the back-and-forth tasks across the world map. The balance between those things does not survive past the first hours. That would be a very difficult thing to get perfect. I’m not even sure it’s perfectible. An excellent attempt but unsuccessful for whatever my playstyle has been in this game.
 
-The progression in the game has been a little uneven and I’ve loved that. It’s actually a contrast to [[Doom: The Dark Ages|Doom - The Dark Ages]] in that way. The curve of Doom progression is perfectly shaped and consistent. Enter a new stage, get a new weapon, pick up currency, upgrade an old weapon. Enter the next stage, get the next new weapon… Progression in Spiritfarer happens in fits and starts. A long and uncertain time passes between one traversal ability and the next. With each new ability comes new opportunities across the map but not all of them are equally lucrative. Sometimes a new resource is gated behind bringing a new spirit onboard. Upgrades at the shipyard are all good but certainly not created equal. My ship was too small and required careful placement optimization until the moment it wasn’t and I could throw things wherever I wanted. This spiky progression graph kept things interesting.
+The progression in the game has been a little uneven and I’ve loved that. It’s actually a contrast to [[Doom - The Dark Ages|Doom: The Dark Ages]] in that way. The curve of Doom progression is perfectly shaped and consistent. Enter a new stage, get a new weapon, pick up currency, upgrade an old weapon. Enter the next stage, get the next new weapon… Progression in Spiritfarer happens in fits and starts. A long and uncertain time passes between one traversal ability and the next. With each new ability comes new opportunities across the map but not all of them are equally lucrative. Sometimes a new resource is gated behind bringing a new spirit onboard. Upgrades at the shipyard are all good but certainly not created equal. My ship was too small and required careful placement optimization until the moment it wasn’t and I could throw things wherever I wanted. This spiky progression graph kept things interesting.
 
 Actually, there’s one more way the progression failed me. I never got better at any task. Neither me as a player nor my avatar. As a player, all minigames were simple with no skill ceiling. Easy to learn and easy to master. As an avatar, there was no idea of leveling-up or becoming more proficient at tasks. I have a tiny bit of cynicism towards leveling up mechanics. I deeply love them but they can also veil a weak game with the cheap pleasure of numbers going up. Thus it’s with some surprise that I say a leveling system would have made this game better. It could have made otherwise-inconsequential activities tie into something larger and would have made me more forgiving of activities that felt grindy for no benefit.
 
 Defies convention by using the Y button as the back button. Frustrating.
-
-**

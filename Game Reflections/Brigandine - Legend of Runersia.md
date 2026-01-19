@@ -7,7 +7,7 @@ Genre:
 tags:
   - game
 ---
-A western fantasy version of [[Romance of the Three Kingdoms]]. Slightly smaller scale but still grand strategy.
+A western fantasy version of Romance of the Three Kingdoms, of which I've only played [[Romance of the Three Kingdoms 8 Remake]]. Slightly smaller scale but still grand strategy.
 
 The game is in the tactical layer. Strategic provides a reason to select fight locations and also allows for preparation. Tactical layer is fairly standard with emphasis on Zones of Control. The matchups between units are complex but ultimately still understandable. Each unit can have an array of specialized abilities and I often spend minutes checking each allied and enemy unit for their statistics before committing to maneuvers.
 

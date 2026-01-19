@@ -5,6 +5,10 @@ Genre:
   - Strategy
 tags:
   - game
+Series: "[[Civilization series]]"
+aliases:
+  - Civilization 7
+  - Civ 7
 ---
 The critical consensus has been mixed and slanting negative. The warmest receptions have been “the game is good.” The coolest receptions have been “this game desecrates the very franchise.”
 
@@ -28,7 +32,7 @@ Civ 5: 58 hours
 
 [[Civilization VI]]: 54 hours (although I played many, many more hours on the Switch so this is clearly the winner overall)
 
-\[Brief interlude: I have apparently logged almost twice the number of hours in [[Dominions 5 - Rise of the Pantokrator]], 188, than I have in my Steam copies of both Civ 5 and 6 combined. That seems… impossible?! But then… I guess I did buy a printed copy of the Dominions 5 manual expressly for putting on my bookshelf.\]
+\[Brief interlude: I have apparently logged almost twice the number of hours in [[Dominions 5 - Warriors of the Faith]], 188, than I have in my Steam copies of both Civ 5 and 6 combined. That seems… impossible?! But then… I guess I did buy a printed copy of the Dominions 5 manual expressly for putting on my bookshelf.\]
 
 A useful approach might be to measure C7 against the “neutral color” of UC. That may help me define what changes could be made to make C7 more-Civ without making it less-C7. C7 is its own direction and its entitled to it. In other words, what would the best version of C7 be, the version that expresses its intent perfectly? (The possibility exists that C5/UC is the local maxima where Civ as we know it most fully achieves its essence of being. Platonic Civilization. Perhaps a different starting point could have led to an alternate-universe Civ series that eclipses ours. But we have the Civ we have.)
 

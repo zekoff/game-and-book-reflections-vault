@@ -1,0 +1,1 @@
+I hate these books. Their nihilism, their grimdark, their violence and sex. There was a while where people were debating whether the Great Fantasy Series was [[The Lord of the Rings|LotR]] or this. Puh.

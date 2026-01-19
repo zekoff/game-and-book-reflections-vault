@@ -7,6 +7,7 @@ tags:
   - game
 aliases:
   - Shiren 6
+  - "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island"
 ---
 Didn't overly tutorialize. Made me go find the in game manual.
 

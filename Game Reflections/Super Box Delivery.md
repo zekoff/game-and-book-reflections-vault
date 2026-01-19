@@ -1,7 +1,8 @@
 ---
-Name: "Super Box Delivery"
+Name: Super Box Delivery
 Entry Created: 2025-06-01
 Genre:
+  - Action
 tags:
   - game
 ---

@@ -7,7 +7,7 @@ Genre:
 tags:
   - game
 ---
-Played about an hour or two on Switch. This game was reviewed well, and even though I was skeptical, I picked it up on sale. It has the chunky-tiled, natural and biological trappings of the original [[Metroid]] artistically, but the way the game feels is more like… [[Ghosts and Goblins]]? It doesn’t trap you into the momentum of a jump the way GnG does, but the jumps do feel deliberate and without finesse.
+Played about an hour or two on Switch. This game was reviewed well, and even though I was skeptical, I picked it up on sale. It has the chunky-tiled, natural and biological trappings of the original [[Metroid series]] artistically, but the way the game feels is more like… [[Ghosts and Goblins]]? It doesn’t trap you into the momentum of a jump the way GnG does, but the jumps do feel deliberate and without finesse.
 
 The most unusual choice is that when the character’s bullet strikes an enemy, it causes knockback to the character, and not the enemy. This not only makes the gun feel anemic, it saps the feeling of offensive momentum, since one of the riskiest things you can do is try and deal damage. The game is generous with deadly spike pits and with one-tile-wide platforms, so knockback is very annoying. It also makes absolutely no sense physically. It’s not every shot that causes knockback, it’s only the shots that connect. I do appreciate the “Sparkblood” mechanic, where every successful hit on an enemy charges a syringe of Sparkblood, which can be injected with a button press to heal one of your very limited hit points.
 

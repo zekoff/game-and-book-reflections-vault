@@ -8,7 +8,7 @@ tags:
 ---
 There are indications of depth here which I haven’t yet explored. A huge variety of Machine types, many of which behave in fundamentally different ways. Riders also tweak stats, have unique special moves (usable about once per race), and sometimes have powers of a less dramatic type than Machines.
 
-There is a good deal of visual noise during gameplay. It is likely masking the depth. In this it is like [[Super Smash Brothers]]. Playing these games with their defaults makes them feel like party games. Games ruled by chance and filled with spectacle rather than control. Like Smash though I believe that if I can pierce the noise then I will find something that I can improve at.
+There is a good deal of visual noise during gameplay. It is likely masking the depth. In this it is like [[Super Smash Bros. series]]. Playing these games with their defaults makes them feel like party games. Games ruled by chance and filled with spectacle rather than control. Like Smash though I believe that if I can pierce the noise then I will find something that I can improve at.
 
 Courses go by at a breakneck speed. This game feels faster at its speedometer’s 30mph than Forza does at 120mph. Races are also very short. A three minute course is fairly lengthy. I feel like I can be reasonably competitive in Mario Kart courses the first time I play them. I don’t feel that way with Kirby Air Riders. It is of great benefit to be familiar with a course in order to be competitive.
 

@@ -2,6 +2,7 @@
 Name: Pokemon Let's Go
 Entry Created: 2025-11-01
 Genre:
+  - JRPG
 tags:
   - game
 ---

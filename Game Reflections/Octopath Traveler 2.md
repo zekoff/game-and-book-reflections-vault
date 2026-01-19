@@ -5,6 +5,7 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Octopath Traveler series]]"
 ---
 Picking the game up again, so its log entry is reflected here in 2024, though I played many hours in 2023 before I started this log. The HD-2D style continues to be lovely, and Partitio has no business being as likable as he is. But he never once looks at the camera. His voice actor leans completely into it, the character is somehow a rube without being a buffoon. Probably because he’s just so darned nice.
 

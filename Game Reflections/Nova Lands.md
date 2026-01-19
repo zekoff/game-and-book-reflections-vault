@@ -1,7 +1,8 @@
 ---
-Name: "Nova Lands"
+Name: Nova Lands
 Entry Created: 2025-01-01
 Genre:
+  - Automation
 tags:
   - game
 ---

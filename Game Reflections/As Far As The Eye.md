@@ -6,4 +6,4 @@ Genre:
 tags:
   - game
 ---
-Softlock -- unresponsive input -- less than two minutes into the game. Astonishing that this was allowed to be released. I'm disappointed since I purchased this based on the developer/publisher Goblinz, who made one of my favorite games of the last several years in Terraformers.
+Softlock -- unresponsive input -- less than two minutes into the game. Astonishing that this was allowed to be released. I'm disappointed since I purchased this based on the developer/publisher Goblinz, who made one of my favorite games of the last several years in [[Terraformers]].

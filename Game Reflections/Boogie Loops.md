@@ -1,7 +1,8 @@
 ---
-Name: "Boogie Loops"
+Name: Boogie Loops
 Entry Created: 2024-06-01
 Genre:
+  - Toy
 tags:
   - game
 ---

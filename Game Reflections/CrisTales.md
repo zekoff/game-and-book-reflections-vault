@@ -6,7 +6,7 @@ Genre:
 tags:
   - game
 ---
-Great intro movie. Beautiful and unusual art and animation. Fully voiced! Throws you directly into a battle when you hit New Game. Solid battle theme. This game makes an excellent first impression. Stylish menus with direct selection of options via button press, not unlike [[Persona]]. Timing based button press bonuses on attack and defend like [[Super Mario RPG]].
+Great intro movie. Beautiful and unusual art and animation. Fully voiced! Throws you directly into a battle when you hit New Game. Solid battle theme. This game makes an excellent first impression. Stylish menus with direct selection of options via button press, not unlike [[Persona series]]. Timing based button press bonuses on attack and defend like [[Super Mario RPG]].
 
 OOF. Load times of 10-15 seconds between each battle. Never has a game stumbled so hard after such a great start.
 

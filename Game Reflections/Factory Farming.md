@@ -1,7 +1,8 @@
 ---
-Name: "Factory Farming"
+Name: Factory Farming
 Entry Created: 2024-06-01
 Genre:
+  - Automation
 tags:
   - game
 ---

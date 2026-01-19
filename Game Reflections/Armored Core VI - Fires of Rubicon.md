@@ -5,6 +5,9 @@ Genre:
   - Action
 tags:
   - game
+Series: "[[Armored Core series]]"
+aliases:
+  - "Armored Core VI: Fires of Rubicon"
 ---
 After the tutorial mission, seems like it will be an enjoyable experience. The difficulty even in the opening mission is tuned such that you can’t simply ignore the mechanics of the game. In the boss fight against the helicopter, you’ve got to stay mobile and keep up the pressure. You can’t outlast the onslaught completely, but you also can’t soak it in a rush to take down the boss. You have to dodge, use all of your weapons, employ your mobility tricks to control range, and even use the terrain to your advantage (blocking missile barrages with buildings).
 

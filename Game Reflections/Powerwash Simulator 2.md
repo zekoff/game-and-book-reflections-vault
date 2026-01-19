@@ -2,6 +2,7 @@
 Name: Powerwash Simulator 2
 Entry Created: 2025-11-01
 Genre:
+  - Toy
 tags:
   - game
 ---

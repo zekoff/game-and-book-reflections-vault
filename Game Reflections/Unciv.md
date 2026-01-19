@@ -16,4 +16,4 @@ Now in late 2025 I’ve come back to this game. I’ve played a couple of games 
 
 The Civ V implementation may be the closest thing we have to “Mere Civilization.” All of the pieces we need are there and there really aren’t pieces you can afford to lose and it still be Civ. It’s probably a good control subject for examination of why Civ VII works so much less well for me than I expected.
 
-Also references [[Civilization]]
+Also references [[Civilization series]]

@@ -5,7 +5,7 @@ Genre:
 tags:
   - game
 ---
-Easily digestible from start to finish. The gameplay is simple platforming with a shovel as tool. The shovel can swipe like an axe, dig like a… shovel, and perform a downward strike ripped from [[Shovel Knight]] and which doubles as a high jump. The crank is used infrequently for a very specific obstacle. The platforming won’t knock [[Mario]] off the throne. Hitboxes continually catch you off guard and the Playdate’s gamepad requires way too much pressure to be held continually or to flip back and forth to change directions.
+Easily digestible from start to finish. The gameplay is simple platforming with a shovel as tool. The shovel can swipe like an axe, dig like a… shovel, and perform a downward strike ripped from [[Shovel Knight]] and which doubles as a high jump. The crank is used infrequently for a very specific obstacle. The platforming won’t knock [[Super Mario Bros. series]] off the throne. Hitboxes continually catch you off guard and the Playdate’s gamepad requires way too much pressure to be held continually or to flip back and forth to change directions.
 
 From a structural perspective, the game presents itself as a linear platformer at first, with a title screen and a tutorial as the first stage. There are “lives”, which are really hit points, and some pickups. But surprises do abound. Beating a stage gives you a ranking and then kicks you right back to the title screen. Starting again presents another procedurally generated stage assembled from a variety of hand-built segments. Picking up puzzle pieces and then completing a stage will progressively unlock chunks of several posters. That’s when it really gets surprising, and the Playdate schtick starts to come through the most strongly.
 

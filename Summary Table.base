@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("game")
+        - '!file.name.startsWith("Analysis")'
+    groupBy:
+      property: Genre
+      direction: ASC
+    order:
+      - file.name
+      - file.size
+      - file.backlinks
+      - Genre
+    sort:
+      - property: file.size
+        direction: DESC
+    columnSize:
+      file.name: 482
+      file.backlinks: 415

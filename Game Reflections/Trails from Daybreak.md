@@ -5,6 +5,7 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Legend of Heroes series]]"
 ---
 Demo version. The story was at least mildly diverting in the beginning. I sat through the voiced in-engine cutscenes and soaked in the world. Calvard is a generally modern-day setting that appears to combine elements of England and Japan. One of the dual protagonists is introduced as a combat version of a hard-boiled detective but with a heart of gold as he tends to a child and then is alternately mothered by her. The second of the dual protagonists appears to be a straight laced gal who will bend the law to serve a greater good. Compelling so far. It's when they meet that things start to sour a little. Van appraises Agnes as having something along the lines of “the appearance of a grown woman with the carriage of a schoolgirl” as the camera pans across the character’s improbably-portioned anatomy while she blushes. She is confirmed to be, indeed, school age. Creepy for both the characters and the player. This is all part of the intro sequence which lasts upwards of half an hour before the game turns control over to the player in any way. There's a thirty-foot walk to an area boundary before control is removed again for the next story sequence. At this point I started skipping the cutscenes just so I could get to try the combat. 
 

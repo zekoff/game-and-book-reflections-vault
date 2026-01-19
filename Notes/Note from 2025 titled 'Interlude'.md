@@ -9,4 +9,4 @@ A couple of corollaries. Raph Koster would say it's important to be able to see 
 
 It’s also made it a little burdensome to start a new game. I will sometimes stare at the game tiles on my Switch and then avoid a new one because I know I’ll have to make a new entry in this log. Ultimately I believe that’s been worth it though. It’s helped me hone my craft.
 
-Additional reference: [[Theory of Fun for Game Design]] as a stand-in for Koster's work.
+Additional reference: [[A Theory of Fun for Game Design]] as a stand-in for Koster's work.

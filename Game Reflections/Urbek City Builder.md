@@ -6,7 +6,7 @@ Genre:
 tags:
   - game
 ---
-Snappy interface with plenty of shortcuts. Allows free camera control, both orthogonal and perspective cameras, and the ability to drop into first-person and walk through your city. It runs smoothly. Dropping buildings is instant. My previous city-builder on Switch was [[Cities: Skylines|Cities - Skylines]]. The difference in performance and quality-of life is astounding.
+Snappy interface with plenty of shortcuts. Allows free camera control, both orthogonal and perspective cameras, and the ability to drop into first-person and walk through your city. It runs smoothly. Dropping buildings is instant. My previous city-builder on Switch was [[Cities - Skylines Remastered|Cities: Skylines]]. The difference in performance and quality-of life is astounding.
 
 Two features stand out. First, the game hinges on a dozen or more different resources, all of which must be produced in your city to continue expanding. This is an abstract way of complicating city growth. Instead of running powerlines, just have enough power rate and stock. Simpler per resource, but because there are now so many resources, there’s still plenty to manage and scale up. Second, the whole game really hinges around building placement puzzles. Most buildings have extensive upgrade trees that require certain other buildings within a radius. Many of those support buildings can’t have other buildings inside their own radius. This is most similar to Islanders. In that game points are scored based on buildings being in the right placement. What’s so delightful is that this produces natural and unpredictable optimization problems that make perfect sense thematically. 
 

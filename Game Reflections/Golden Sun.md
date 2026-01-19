@@ -5,6 +5,7 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Golden Sun series]]"
 ---
 Holds up surprisingly well. Dungeon progression involves a significant element of puzzle solving. None of the puzzles are necessarily brain-burners but there have already been a couple that stumped me for a moment. It’s been fun to just sit there and figure things out myself. Possible solutions are constrained enough that I know I’ll be able to figure it out if I just fiddle enough.
 

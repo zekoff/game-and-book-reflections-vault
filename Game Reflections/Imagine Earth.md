@@ -15,3 +15,5 @@ Unfortunately, I hit two crashes in a short amount of time, which dissuades me f
 Came back after a patch stabilized the game. Played through several more games and grew in understanding of the systems. I feel a little let down by how the challenge ultimately comes from competing corporations. It's not a bad approach and it works for Civ-likes. What else could have worked? A race against the environment to grow your cities. A tension just to balance out your civ and be sustainable. A straight city builder, although that might remove too much challenge. Really what I didn't like was how cramped the planets were with even two other corporations. That is compounded by the fact that they can take your land. There's a sabotage system that reminds me of Offworld Trading Company. The opportunity cost of each tile is one of the most surprising things about the game that ends up being the crux of it. 
 
 A maximalist game design. Throw more mechanics at it until you're out of ideas. Given that, it works better than it has any right to.
+
+Triangular tiles are less intuitive to me than hex tiles. 

@@ -1,12 +1,15 @@
 ---
-Name: Doom - The Dark Ages
+Name: "Doom: The Dark Ages"
 Entry Created: 2025-01-01
 Genre:
   - Action
 tags:
   - game
+Series: "[[Doom series]]"
+aliases:
+  - "Doom: The Dark Ages"
 ---
-This game, of course, stands in the tradition of the [[Doom]] reboot. That alone is enough to carry it a long way. It’s unclear to me where this fits in the new Doom mythology. Old Doom made a bizarre but intuitive sense: a marine was sent to close the portals to Hell which had appeared on Mars. This Doom is burdened with so much lore. I actually do want to find out more about the Slayer, which surprised me, but the series is sliding further away from its roots. Even in the first game of the reboot the feel was closer to [[DOOM]]. There was that famous scene where the Slayer is supposed to remove a widget from a machine and instead of unplugging it he furiously smashes it to bits while a voiceover whines at him for breaking it. In this game the Slayer carefully twists knobs and throws switches when needed.
+This game, of course, stands in the tradition of the [[Doom]] reboot. That alone is enough to carry it a long way. It’s unclear to me where this fits in the new Doom mythology. Old Doom made a bizarre but intuitive sense: a marine was sent to close the portals to Hell which had appeared on Mars. This Doom is burdened with so much lore. I actually do want to find out more about the Slayer, which surprised me, but the series is sliding further away from its roots. Even in the first game of the reboot the feel was closer to the original [[DOOM and DOOM II|DOOM]]. There was that famous scene where the Slayer is supposed to remove a widget from a machine and instead of unplugging it he furiously smashes it to bits while a voiceover whines at him for breaking it. In this game the Slayer carefully twists knobs and throws switches when needed.
 
 This game contains possibly the most metal thing I’ve ever seen. Skyscraper-sized demons called Tyrants appear occasionally. They’re impossible to fight on foot by an order of magnitude. (Even for the Slayer, who is far beyond a superhero.) A Tyrant appears during the first dragon-riding sequence. After doing enough damage and staggering the Tyrant, an interact prompt shows up on it. The dragon latches his claws onto the Tyrant’s face, pries its mouth open, then breathes fire down its throat until it melts from inside. The first time it happened I set the controller down and just laughed for thirty seconds.
 

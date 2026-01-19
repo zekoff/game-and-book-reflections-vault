@@ -5,6 +5,7 @@ Genre:
   - Immersive Simulation
 tags:
   - game
+Series: "[[Shock series]]"
 ---
 (Remastered version)
 

@@ -8,6 +8,8 @@ tags:
   - game
 aliases:
   - Diablo 4
+  - Diablo 3
+Series: "[[Diablo series]]"
 ---
 Picked up the heavily-discounted Switch port after hearing my brother remark how he’s still playing it and has for years. Timely also after reading Jason Schreier’s [[Play Nice]], a timeline of the rise and (perhaps exaggerated) fall of Blizzard.
 

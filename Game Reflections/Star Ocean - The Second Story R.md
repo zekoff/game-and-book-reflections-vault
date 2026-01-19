@@ -1,10 +1,12 @@
 ---
-Name: Star Ocean - The Second Story R
+Name: "Star Ocean: The Second Story R"
 Entry Created: 2024-06-01
 Genre:
   - JRPG
 tags:
   - game
+aliases:
+  - "Star Ocean: The Second Story R"
 ---
 Fairly trim runtime for a world-spanning classic JRPG. I rolled the credits at around 27 hours, having a completed a fair amount of optional material along the way.
 

@@ -2,6 +2,7 @@
 Name: While the Iron's Hot
 Entry Created: 2023-06-01
 Genre:
+  - Adventure
 tags:
   - game
 ---

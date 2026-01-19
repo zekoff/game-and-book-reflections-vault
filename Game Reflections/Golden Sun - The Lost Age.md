@@ -5,6 +5,9 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Golden Sun series]]"
+aliases:
+  - "Golden Sun: The Lost Age"
 ---
 After reading the conclusion of [[Golden Sun]]’s story, I jumped into The Lost Age to at least get through the prologue. I remember from childhood the shock of beginning TLA as the “bad guy” party. A memorable inversion even all these years later. The story’s setup as a duology is uncommon -- Golden Sun ends on a cliffhanger with absolutely no attempt to wrap up the plot. And TLA begins where GS split off a few characters. They are clearly two pieces of the same whole.
 

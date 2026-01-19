@@ -6,7 +6,7 @@ Genre:
 tags:
   - game
 ---
-VS-like which I bought at heavy discount (~$2?) because I’d heard its name and wanted to analyze it. Its differentiators are:
+[[Vampire Survivors|VS]]-like which I bought at heavy discount (~$2?) because I’d heard its name and wanted to analyze it. Its differentiators are:
 
 - Guns are fired based on button press, and slow the player while firing.
 - Twin-stick aiming is required. (There is an option to simply auto-target the closest enemy, but the game is not set up where this is a viable way to play outside perhaps of certain builds which I never encountered. Either way, the game is effectively a twin-stick shooter.)

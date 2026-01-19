@@ -1,7 +1,8 @@
 ---
-Name: "Nintendo Switch 2 Welcome Tour"
+Name: Nintendo Switch 2 Welcome Tour
 Entry Created: 2025-06-01
 Genre:
+  - Toy
 tags:
   - game
 ---

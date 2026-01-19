@@ -1,7 +1,8 @@
 ---
-Name: "Let's! Revolution!"
+Name: Let's! Revolution!
 Entry Created: 2024-06-01
 Genre:
+  - Puzzle
 tags:
   - game
 ---

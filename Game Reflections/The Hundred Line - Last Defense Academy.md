@@ -6,6 +6,8 @@ Genre:
   - Visual Novel
 tags:
   - game
+aliases:
+  - "The Hundred Line: Last Defense Academy"
 ---
 Demo version. Very anime -- big expressions, lots of yelling, superpowers. The music is attention-getting. Songs have thumping beats and unusual instrumentation. The blood aesthetic is not something I enjoy or will be able to handle for a long period of time. There’s little true gore but lots of blood spurting and dripping. The initial cast of characters all have “a thing” that matches their design and which makes them stand out. They are named with a Japanese schema that makes me inadequately equipped to recall easily. I have similar trouble with fantasy names in general at times but find it easier when they are spelled in a Western tradition.
 

@@ -2,6 +2,7 @@
 Name: Mega Dystopia Micro Architect
 Entry Created: 2024-06-01
 Genre:
+  - Strategy
 tags:
   - game
 aliases:

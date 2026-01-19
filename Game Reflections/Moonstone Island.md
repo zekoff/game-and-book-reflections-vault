@@ -1,7 +1,8 @@
 ---
-Name: "Moonstone Island"
+Name: Moonstone Island
 Entry Created: 2024-06-01
 Genre:
+  - Slow-life
 tags:
   - game
 ---

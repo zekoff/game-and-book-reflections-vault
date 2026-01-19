@@ -10,7 +10,7 @@ Several things separate this from the tower defense games I’ve played in the p
 
 The art direction is unique but could be swapped in for a number of different things.
 
-The promise of a reward at the end of the night, and the promise of funneling in into a variety of upgrades, creates a one-more-term loop. Along with the kingdom-building themes, there is a little touch of [[Civilization]] here.
+The promise of a reward at the end of the night, and the promise of funneling in into a variety of upgrades, creates a one-more-term loop. Along with the kingdom-building themes, there is a little touch of [[Civilization series]] here.
 
 Campaign versus endless mode.
 

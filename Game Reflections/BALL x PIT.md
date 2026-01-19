@@ -3,6 +3,7 @@ Name: BALL x PIT
 Entry Created: 2025-06-01
 Genre:
   - Roguelite
+  - Action
 tags:
   - game
 ---

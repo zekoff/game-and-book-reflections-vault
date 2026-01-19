@@ -1,7 +1,8 @@
 ---
-Name: "Satisfactory"
+Name: Satisfactory
 Entry Created: 2025-06-01
 Genre:
+  - Automation
 tags:
   - game
 ---

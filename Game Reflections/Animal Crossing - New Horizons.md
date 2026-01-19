@@ -2,6 +2,7 @@
 Name: "Animal Crossing: New Horizons"
 Entry Created: 2023-06-01
 Genre:
+  - Slow-life
 tags:
   - game
 aliases:

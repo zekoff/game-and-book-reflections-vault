@@ -1,7 +1,8 @@
 ---
-Name: "Totally Accurate Battle Simulator (TABS)"
+Name: Totally Accurate Battle Simulator (TABS)
 Entry Created: 2024-06-01
 Genre:
+  - Toy
 tags:
   - game
 ---

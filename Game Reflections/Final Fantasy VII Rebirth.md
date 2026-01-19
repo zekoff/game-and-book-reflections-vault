@@ -5,6 +5,7 @@ Genre:
   - JRPG
 tags:
   - game
+Series: "[[Final Fantasy series]]"
 ---
 Richly produced on a scale that defies belief. It’s very much up its own butt, but it’s also based on one of the few entries in the video game canon that can support this. As I described it to someone, it’s the national epic of the collision between US and Japanese cultures.
 

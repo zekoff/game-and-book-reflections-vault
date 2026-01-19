@@ -6,6 +6,7 @@ Genre:
   - RPG
 tags:
   - game
+Series: "[[Souls series]]"
 ---
 Having played an hour a couple of years ago on my brother’s Playstation, it wasn’t revelatory like perhaps it would have been. But I’m also getting to sink my teeth into it more, and not rush.
 

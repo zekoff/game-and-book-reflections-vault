@@ -3,8 +3,6 @@ Name: Ara Fell
 Entry Created: 2026-01-01
 Genre:
   - JRPG
-Characteristics:
-Series:
 tags:
   - game
 ---

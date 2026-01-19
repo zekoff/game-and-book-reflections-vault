@@ -8,7 +8,7 @@ Genre:
 tags:
   - game
 ---
-Probably a few total hours across less than 10 runs. The meta progression elements are light, and center around an expanding pool of options rather than upgrades in power. That is my personal preference in roguelikes. I need to go back and remind myself of the battle system in [[Mega Man Battle Network]], as I’ve heard this game described as having lifted the core battle system wholesale. If so, then MMBN was an impressive achievement and likely before its time in some ways.
+Probably a few total hours across less than 10 runs. The meta progression elements are light, and center around an expanding pool of options rather than upgrades in power. That is my personal preference in roguelikes. I need to go back and remind myself of the battle system in [[MegaMan Battle Network]], as I’ve heard this game described as having lifted the core battle system wholesale. If so, then MMBN was an impressive achievement and likely before its time in some ways.
 
 The music in the game stands out.
 

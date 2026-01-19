@@ -6,11 +6,11 @@ Genre:
 tags:
   - game
 ---
-I can’t help but think of the [[Metal Slug]] franchise because of the dimensions of the sprites. Fairly large compared to the size of the screen, and super-deformed in the sense of large heads on otherwise standard video-game-sprite bodies.
+I can’t help but think of the [[Metal Slug series]] franchise because of the dimensions of the sprites. Fairly large compared to the size of the screen, and super-deformed in the sense of large heads on otherwise standard video-game-sprite bodies.
 
 I can’t believe what a hipster I am saying this, but the font is off-putting in this game. It’s like… bad Arial. Pixelated, almost-smooth.
 
-The gameplay is perfectly fine. It’s an alternate-universe version of [[MegaMan]]. The IntiCreates [[Gunvolt]] games are what you get when you start with MegaMan and riff on it. This game is the opposite -- it’s like what you’d get if you started with Gunvolt and riffed on it towards MegaMan. The initial power, which is maybe just called “Berserk” power (?) is far away the more interesting of the two I’ve unlocked so far, but to be fair that’s coming from someone who adores the Copen mechanics of the recent [[Azure Striker]] sub-sub-franchise, where you dash into enemies to combo and to set up your offensive. The Fire power gives you the ability to drill into certain surfaces. Interestingly, the control for these drilling sections is the same as the [[Pepper Grinder]] game. Pepper Grinder is that whole mechanic inflated to a game.
+The gameplay is perfectly fine. It’s an alternate-universe version of [[Megaman series]]. The IntiCreates [[Gunvolt series]] games are what you get when you start with MegaMan and riff on it. This game is the opposite -- it’s like what you’d get if you started with Gunvolt and riffed on it towards MegaMan. The initial power, which is maybe just called “Berserk” power (?) is far away the more interesting of the two I’ve unlocked so far, but to be fair that’s coming from someone who adores the Copen mechanics of the recent Azure Striker sub-sub-franchise, where you dash into enemies to combo and to set up your offensive. The Fire power gives you the ability to drill into certain surfaces. Interestingly, the control for these drilling sections is the same as the [[Pepper Grinder]] game. Pepper Grinder is that whole mechanic inflated to a game.
 
   
 

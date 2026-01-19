@@ -5,7 +5,7 @@ Genre:
   - JRPG
 tags:
   - game
-Series: Legend of Heroes
+Series: "[[Legend of Heroes series]]"
 ---
 Bright colors and broad strokes. Exciting to go back and get to start at the beginning of the Trails series which I’ve tried unsuccessfully to crack into. The combat system is a real highlight. Simple action RPG combat is used while walking around. Enemies are always visible on the map and ready to be punched. Each character has a different moveset during the action portions. This makes it simple to clean up easy groups of enemies or to whittle down a giant combat encounter to something more manageable. At any time a button press will elevate the combat instantly to the main turn-based system. This is one of those magic tricks some games have. A thing that is so simple and so integrated and yet so special when you stand back from it. Turn-based combat is deep, full of options. It’s tuned well so that battles were all pretty challenging until I came to grips with manipulating timelines and interfering with enemies. Now I can breeze through most things due to tactics rather than numerical advantage.
 

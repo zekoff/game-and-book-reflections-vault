@@ -1,0 +1,5 @@
+Series entries:
+- [[Diablo]]
+- Diablo 2
+- Diablo 3
+- Diablo 4
